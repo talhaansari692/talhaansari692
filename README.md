@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @talhaansari692
+- 
   🌱 I'm a Front-end developer. 
-- 🌱 I’m currently learning for Bank-end Development
+- 🌱 I’m currently learning for Back-end Development.s
 - 📫 How to reach me talhaansari692@gmail.com
 
 <!---
