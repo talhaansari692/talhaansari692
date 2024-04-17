@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talhaansari692
 - 
-  🌱 I'm a Front-end developer. 
+  🌱 I'm a Full stack developer. 
 - 🌱 I’m currently learning for Back-end Development.s
 - 📫 How to reach me talhaansari692@gmail.com
 
