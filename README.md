@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @talhaansari692
-- 
-  🌱 I'm a Full stack developer. 
-- 🌱 I’m currently learning for Back-end Development.s
-- 📫 How to reach me talhaansari692@gmail.com
+👋 Hi, I’m @talhaansari692
+
+🚀 Full-Stack Developer | CodeVamp Technologies Alumni
+
+💻 Proficient in Java, JavaScript, React.js, Node.js, HTML, CSS, MySQL
+
+🔍 Experienced in crafting innovative solutions and collaborating with cross-functional teams
+
+⚡ Passionate problem-solver with a proven track record in fast-paced environments
+
+📩 Let's connect! I'm eager to discuss how I can contribute to your team's success.
+  
 
 <!---
 talhaansari692/talhaansari692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
