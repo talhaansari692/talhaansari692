@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | CodeVamp Technologies Alumni
 
-💻 Proficient in Java, JavaScript, React.js, Node.js, HTML, CSS, MySQL
+💻 Proficient in JavaScript, React.js, Node.js, HTML, CSS, MySQL
 
 🔍 Experienced in crafting innovative solutions and collaborating with cross-functional teams
 
